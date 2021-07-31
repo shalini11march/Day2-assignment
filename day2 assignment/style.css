@@ -1,0 +1,46 @@
+body
+{
+    background-color: rgb(201, 213, 252);
+}
+
+#a
+{
+    background-color:rgb(173, 216, 160);
+    color:#141e61;
+    margin-left:30%;
+    margin-right :30%;
+    border: 30px solid rgb(248, 18, 18);
+    text-align: center;
+    
+   
+}
+
+
+.para1
+{
+    position:absolute;
+    left:0px;
+    width:800px;
+    margin-left: 30%;
+    margin-right:20%;
+    border: 3px solid green;
+    padding: 10px;
+    color: rgb(59, 10, 10);
+    background-color: rgb(153, 241, 190);
+   
+}
+ 
+.para2
+{
+   
+    position:absolute;
+    left:0px;
+    width:800px;
+    margin-left: 30%;
+    margin-right:20%;
+    border: 3px solid green;
+    padding: 10px;
+    color: rgb(59, 10, 10);
+    background-color:rgb(136, 233, 161)
+  
+}
